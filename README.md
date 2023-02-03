@@ -1,2 +1,3 @@
 # Discord-Bot-Base
-Just a simple way for people to create a nice Discord bot without all the confusion. 
+
+![bot-discord](https://user-images.githubusercontent.com/14003326/216511992-b71cbc4b-9351-4eb6-9b70-9015d8f31303.png)
