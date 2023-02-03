@@ -1,0 +1,19 @@
+{
+	"name": "Bot Name or ID",
+	"version": "1.0",
+	"description": "Short description of your bot and how to use it.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ."
+	},
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3"
+	},
+	"keywords": [
+		"bot"
+	],
+	"author": "Your Name",
+	"license": "LICENSE-TYPE"
+}
