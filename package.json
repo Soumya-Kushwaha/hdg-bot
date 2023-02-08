@@ -1,19 +1,25 @@
 {
-	"name": "Bot Name or ID",
-	"version": "1.0",
-	"description": "Short description of your bot and how to use it.",
+	"name": "Discord Bot Base",
+	"package name": "@hasidicdevs/Discord-Bot-Base", 
+	"version": "0.0.1",
+	"description": "This is just the base needed to create a simple Discord bot.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node ."
 	},
+	"test command": "exit 0",
 	"dependencies": {
 		"discord.js": "^14.7.1",
 		"dotenv": "^16.0.3"
 	},
 	"keywords": [
+		"discord",
 		"bot"
 	],
-	"author": "Your Name",
-	"license": "LICENSE-TYPE"
+	"publishConfig": {
+		"@yosileyid:registry": "https://npm.pkg.github.com"
+	},
+	"author": "@yosileyid",
+	"license": "Mozilla Public License v2.0"
 }
