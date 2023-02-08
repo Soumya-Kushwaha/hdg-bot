@@ -1,6 +1,7 @@
 {
 	"name": "Discord Bot Base",
-	"package name": "@hasidicdevs/Discord-Bot-Base", 
+	"package name": "@hasidicdevs/Discord-Bot-Base",
+	"repository" : "https://github.com/hasidicdevs/Discord-Bot-Base",
 	"version": "0.0.1",
 	"description": "This is just the base needed to create a simple Discord bot.",
 	"main": "index.js",
@@ -18,8 +19,8 @@
 		"bot"
 	],
 	"publishConfig": {
-		"@yosileyid:registry": "https://npm.pkg.github.com"
+		"@hasidicdevs:registry": "https://npm.pkg.github.com"
 	},
-	"author": "@yosileyid",
+	"author": "@hasidicdevs",
 	"license": "Mozilla Public License v2.0"
 }
